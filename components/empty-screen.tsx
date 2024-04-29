@@ -1,22 +1,48 @@
 import { Button } from '@/components/ui/button'
 import { ArrowRight } from 'lucide-react'
 
+
+
 const exampleMessages = [
   {
-    heading: 'Why is Nvidia growing rapidly?',
-    message: 'Why is Nvidia growing rapidly?'
+    heading: 'What are the symptoms of COVID-19?',
+    message: 'What are the symptoms of COVID-19?'
   },
   {
-    heading: 'Is the Apple Vision Pro worth buying?',
-    message: 'Is the Apple Vision Pro worth buying?'
+    heading: 'How to manage diabetes daily?',
+    message: 'How to manage diabetes daily?'
   },
   {
-    heading: 'How does the Vercel AI SDK work?',
-    message: 'How does the Vercel AI SDK work?'
+    heading: 'Is the flu shot effective this year?',
+    message: 'Is the flu shot effective this year?'
   },
   {
-    heading: 'Tesla vs Rivian',
-    message: 'Tesla vs Rivian'
+    heading: 'What are the latest treatments for depression?',
+    message: 'What are the latest treatments for depression?'
+  },
+  {
+    heading: 'How does telemedicine improve patient care?',
+    message: 'How does telemedicine improve patient care?'
+  },
+  {
+    heading: 'Are there new advancements in cancer treatment?',
+    message: 'Are there new advancements in cancer treatment?'
+  },
+  {
+    heading: 'What is the best diet for heart disease prevention?',
+    message: 'What is the best diet for heart disease prevention?'
+  },
+  {
+    heading: 'How effective are wearable health devices?',
+    message: 'How effective are wearable health devices?'
+  },
+  {
+    heading: 'What should you know about seasonal allergies?',
+    message: 'What should you know about seasonal allergies?'
+  },
+  {
+    heading: 'Is meditation beneficial for mental health?',
+    message: 'Is meditation beneficial for mental health?'
   }
 ]
 export function EmptyScreen({
